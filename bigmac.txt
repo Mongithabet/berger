@@ -1,7 +1,8 @@
 steak bio
 salade bio
 cheese bio
-oignons
-cornichons
+oignons bio
+cornichons bio
+
 ketchup
 moutarde
