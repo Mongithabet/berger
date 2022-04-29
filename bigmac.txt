@@ -1,6 +1,6 @@
-steak
-salade
-cheese
+steak bio
+salade bio
+cheese bio
 oignons
 cornichons
 ketchup
